@@ -1,4 +1,5 @@
-(SAME AS Changes.md
+(SAME AS Changes.md)
+
 We have made changes to the code that presents the cost of the floor when pressed, it also presents what this cost estimation is based on (how many beams etc.). 
 
 This has been done by editing the html-build.js file and index_duplex.html files. The properties box has been edited by defining a value for Cost_estimate calculating a total cost for all the floors. We have also added abbreviations for columns, beams, walls and slabs as we ran out of space in the "plan box". The "plan box" has been edited to show cost of each floor, and what the cost is based on. The attributes has been defined in the index_duplex.html file and linked to the html-build.js file. 
